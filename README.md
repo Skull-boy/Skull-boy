@@ -64,9 +64,7 @@ I am a **Python-focused developer** currently bridging the gap between Cybersecu
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skull-boy&show_icons=true&theme=radical&hide_border=true" alt="Github Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skull-boy&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skull-boy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <!--
 **Skull-boy/Skull-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
