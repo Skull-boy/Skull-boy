@@ -8,10 +8,10 @@
     <em>2nd Year B.Tech Undergraduate at Dr. B. C. Roy Engineering College</em>
   </p>
   
-  <a href="[Your LinkedIn Profile Link]">
+  <a href="www.linkedin.com/in/shinjan-das-89m">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Your Email Address]">
+  <a href="mailto:shinjan2005das@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
