@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/Skull-boy">Skull-boy</a>! 👋</h1>
 
-  <h3>Python Developer | AI Automation & ML Enthusiast | Prompt Engineer</h3>
+  <h3>Python Developer | AI Automation & ML Engineer | Prompt Engineer</h3>
 
   <p>
     <em>2nd Year B.Tech Undergraduate at Dr. B. C. Roy Engineering College</em>
