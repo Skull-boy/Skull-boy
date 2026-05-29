@@ -62,11 +62,11 @@ I'm a **Python & JavaScript developer** at the intersection of AI, Cybersecurity
 
 | # | Category | Progress | Status |
 |:-:|:---------|:--------:|:------:|
-| 1 | 📦 Arrays & Hashing | `0 / 9` | ⏳ |
+| 1 | 📦 Arrays & Hashing | `2 / 9` | 🔄 |
 | 2 | 👉 Two Pointers | `0 / 5` | ⏳ |
 | 3 | 🪟 Sliding Window | `0 / 6` | ⏳ |
 | 4 | 📚 Stack | `0 / 7` | ⏳ |
-| 5 | 🔍 Binary Search | `0 / 7` | ⏳ |
+| 5 | 🔍 Binary Search | `1 / 7` | 🔄 |
 | 6 | 🔗 Linked List | `0 / 11` | ⏳ |
 | 7 | 🌳 Trees | `0 / 15` | ⏳ |
 | 8 | 🌲 Tries | `0 / 3` | ⏳ |
@@ -83,7 +83,7 @@ I'm a **Python & JavaScript developer** at the intersection of AI, Cybersecurity
 
 <div align="center">
 
-**NeetCode 150 — Total: `0 / 150`**
+**NeetCode 150 — Total: `3 / 150`**
 
 </div>
 
