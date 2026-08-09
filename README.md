@@ -89,8 +89,8 @@ I am currently dedicating my engineering bandwidth to complex AI infrastructure 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skull-boy&show_icons=true&theme=onedark&hide_border=true&title_color=00E5FF&text_color=E6E6E6&icon_color=B537F2&bg_color=0A0A0A&cache_seconds=86400)](https://github.com/Skull-boy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skull-boy&layout=compact&theme=onedark&hide_border=true&title_color=00E5FF&text_color=E6E6E6&bg_color=0A0A0A&cache_seconds=86400)](https://github.com/Skull-boy)
+<!-- <img src="profile/stats.svg" alt="GitHub Stats" height="192"/> -->
+<img src="profile/top-langs.svg" alt="Top Languages" height="192"/>
 
 </div>
 
